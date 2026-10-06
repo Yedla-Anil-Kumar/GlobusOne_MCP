@@ -1,0 +1,42 @@
+{
+  "strStatus": "success",
+  "strMessage": "Loaded 4 notes",
+  "lstDefault": [
+    {
+      "CREATEDBYNAME": "Brendan Mahoney",
+      "ISPINNEDFL": null,
+      "CREATEDBYID": "7096",
+      "CREATEDDATE": "2026-06-11T20:15:43.000+0000",
+      "CONTENT": "Opportunity Closed Won: Closed Won in Q1",
+      "NOTETYPE": "STATUS_CHANGE",
+      "ID": 1102
+    },
+    {
+      "ISPINNEDFL": null,
+      "NOTETYPE": "DEAL_CONFIDENCE",
+      "ID": 1101,
+      "CREATEDBYNAME": "Venkata Yenimireddy",
+      "CREATEDDATE": "2026-06-10T17:56:09.000+0000",
+      "CREATEDBYID": "14468121",
+      "CONTENT": "Deal Confidence Changed to Blue: Completed"
+    },
+    {
+      "CONTENT": "Stryker Nav end of life, implant contract",
+      "ISPINNEDFL": null,
+      "CREATEDBYNAME": "Manual Load",
+      "NOTETYPE": "IMPENDING_EVENT",
+      "CREATEDDATE": "2026-06-10T17:40:37.000+0000",
+      "ID": 954,
+      "CREATEDBYID": "30301"
+    },
+    {
+      "ISPINNEDFL": null,
+      "CREATEDBYNAME": "Manual Load",
+      "NOTETYPE": "NOTES_NEXT_STEPS",
+      "CREATEDDATE": "2026-06-10T17:40:37.000+0000",
+      "CONTENT": "Closed",
+      "ID": 955,
+      "CREATEDBYID": "30301"
+    }
+  ]
+}

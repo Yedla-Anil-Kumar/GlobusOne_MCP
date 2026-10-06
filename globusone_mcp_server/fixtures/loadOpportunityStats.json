@@ -1,0 +1,10 @@
+{
+  "strStatus": "success",
+  "flag": false,
+  "objResult": {
+    "CALLEDDEALS": 0,
+    "CALLEDDEALSVALUE": 0,
+    "CHASINGFORQTR": 20,
+    "CLOSEDDEALS": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "strStatus": "success",
+  "strMessage": "Company list retrieved successfully",
+  "lstCompany": [
+    {
+      "companyId": 1009,
+      "companyName": "Globus Medical Chennai"
+    },
+    {
+      "companyId": 1011,
+      "companyName": "Globus Medical Delhi"
+    },
+    {
+      "companyId": 1000,
+      "companyName": "Globus Medical North America"
+    }
+  ]
+}

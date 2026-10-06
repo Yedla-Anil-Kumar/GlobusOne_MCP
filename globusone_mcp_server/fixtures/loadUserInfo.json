@@ -1,0 +1,19 @@
+{
+  "strStatus": "success",
+  "strMessage": "User Info list retrieved successfully",
+  "lstUserInfo": [
+    {
+      "strLoginName": "jdoe",
+      "strCompanyId": 1000,
+      "strPartyId": "2000002",
+      "strUserId": "1000001",
+      "strUserName": "Jane Doe",
+      "strCodeId": null,
+      "strPartyType": "7006",
+      "strAccessLevel": "3",
+      "strDivisionId": null,
+      "strDeptName": "S",
+      "strCompId": "3000001"
+    }
+  ]
+}

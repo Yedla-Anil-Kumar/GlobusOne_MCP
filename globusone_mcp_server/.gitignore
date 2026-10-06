@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local config and secrets — tokens, session cookies, Okta settings
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+logs/
+.DS_Store
+
+# Browser scans and API captures used by check_portal_drift.py — real portal data
+scan*.json
+globus_endpoints_*.json
+globus_fields_*.json

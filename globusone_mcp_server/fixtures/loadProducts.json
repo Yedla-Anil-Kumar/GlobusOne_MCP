@@ -1,0 +1,39 @@
+{
+  "strStatus": "success",
+  "strMessage": "Loaded 3 products",
+  "lstDefault": [
+    {
+      "id": 480,
+      "entityType": 262420120,
+      "entityId": 272,
+      "codeId": 262420101,
+      "voidFl": null,
+      "createdBy": "30301",
+      "createdDate": "2026-06-10T17:40:30.000+0000",
+      "lastUpdatedBy": null,
+      "lastUpdatedDate": null
+    },
+    {
+      "id": 481,
+      "entityType": 262420120,
+      "entityId": 272,
+      "codeId": 262420102,
+      "voidFl": null,
+      "createdBy": "30301",
+      "createdDate": "2026-06-10T17:40:30.000+0000",
+      "lastUpdatedBy": null,
+      "lastUpdatedDate": null
+    },
+    {
+      "id": 482,
+      "entityType": 262420120,
+      "entityId": 272,
+      "codeId": 262420104,
+      "voidFl": null,
+      "createdBy": "30301",
+      "createdDate": "2026-06-10T17:40:30.000+0000",
+      "lastUpdatedBy": null,
+      "lastUpdatedDate": null
+    }
+  ]
+}

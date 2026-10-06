@@ -1,0 +1,83 @@
+{
+  "strStatus": "success",
+  "strMessage": "Code Lookup retrieved successfully",
+  "lstCodeLookUp": [
+    {
+      "codeId": 262420122,
+      "codeNm": "Prepare",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "1",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    },
+    {
+      "codeId": 262420123,
+      "codeNm": "Ask Priorities",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "2",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    },
+    {
+      "codeId": 262420124,
+      "codeNm": "Build Interest",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "3",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    },
+    {
+      "codeId": 262420125,
+      "codeNm": "Create Solutions",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "4",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    },
+    {
+      "codeId": 262420126,
+      "codeNm": "Drive Alignment",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "5",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    },
+    {
+      "codeId": 262420127,
+      "codeNm": "Execute and Deliver",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "6",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    },
+    {
+      "codeId": 262420128,
+      "codeNm": "Closed",
+      "codeGrp": "CRMSTG",
+      "activeFl": "1",
+      "codeSeqNo": "7",
+      "createdDt": "2026-05-09 04:14:35.0",
+      "createdBy": "14468121",
+      "lastUpdatedDate": "2026-05-09 04:14:35.0",
+      "lastUpdatedBy": "14468121"
+    }
+  ]
+}

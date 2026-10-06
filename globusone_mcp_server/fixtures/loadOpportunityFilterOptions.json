@@ -1,0 +1,24 @@
+{
+  "strStatus": "success",
+  "flag": false,
+  "objResult": {
+    "rsms": [
+      "Brendan Mahoney",
+      "Gregory Walker",
+      "Jon Callies",
+      "Matthew Bittner",
+      "Ryan McGrath",
+      "Thomas King",
+      "Travis Peckskamp",
+      "Zeke Schneider"
+    ],
+    "areaDirectors": [
+      "Mid-Atlantic INR -TBH",
+      "Northwest - INR -TBH"
+    ],
+    "zones": [
+      "Britteni Rice",
+      "Zac Champion"
+    ]
+  }
+}

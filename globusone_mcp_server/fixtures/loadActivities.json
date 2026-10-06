@@ -1,0 +1,51 @@
+{
+  "strStatus": "success",
+  "strMessage": "Loaded 5 activities",
+  "lstDefault": [
+    {
+      "CREATEDBYNAME": "Brendan Mahoney",
+      "ACTIVITYDATE": "2026-06-11T20:15:43.000+0000",
+      "CREATEDBYID": "7096",
+      "ACTIVITYTYPE": "STAGE_CHANGED",
+      "ID": 1469,
+      "TITLE": "Stage Changed",
+      "DESCRIPTION": "Stage changed from 262420122 to 262420128"
+    },
+    {
+      "CREATEDBYNAME": "Brendan Mahoney",
+      "TITLE": "Opportunity Closed Won",
+      "DESCRIPTION": "Reason: Closed Won in Q1",
+      "ACTIVITYTYPE": "STATUS_CHANGE",
+      "ACTIVITYDATE": "2026-06-11T20:15:43.000+0000",
+      "CREATEDBYID": "7096",
+      "ID": 1468
+    },
+    {
+      "ACTIVITYTYPE": "DEAL_CONFIDENCE",
+      "ID": 1185,
+      "CREATEDBYNAME": "Venkata Yenimireddy",
+      "ACTIVITYDATE": "2026-06-10T17:56:09.000+0000",
+      "CREATEDBYID": "14468121",
+      "DESCRIPTION": "Changed to Blue. Reason: Completed",
+      "TITLE": "Deal Confidence Changed"
+    },
+    {
+      "TITLE": "Lab - Completed",
+      "CREATEDBYNAME": "Manual Load",
+      "DESCRIPTION": null,
+      "ACTIVITYTYPE": "CHECKLIST_COMPLETED",
+      "ACTIVITYDATE": "2026-06-10T17:40:32.000+0000",
+      "ID": 1006,
+      "CREATEDBYID": "30301"
+    },
+    {
+      "ACTIVITYTYPE": "OPPORTUNITY_CREATED",
+      "CREATEDBYNAME": "Manual Load",
+      "ID": 1058,
+      "ACTIVITYDATE": "2026-06-10T17:39:34.000+0000",
+      "TITLE": "Opportunity Created",
+      "DESCRIPTION": "Opportunity created. Account: UW Montlake.",
+      "CREATEDBYID": "30301"
+    }
+  ]
+}

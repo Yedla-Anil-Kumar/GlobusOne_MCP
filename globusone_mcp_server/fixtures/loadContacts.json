@@ -1,0 +1,28 @@
+{
+  "strStatus": "success",
+  "strMessage": "Loaded 2 contacts",
+  "lstDefault": [
+    {
+      "isPrimaryFl": null,
+      "npiId": null,
+      "emails": [],
+      "contactTitle": null,
+      "contactName": "Dan Salmonsen",
+      "contactRole": "Executive Champion",
+      "phones": [],
+      "id": 484,
+      "partyId": null
+    },
+    {
+      "isPrimaryFl": null,
+      "npiId": null,
+      "emails": [],
+      "contactTitle": null,
+      "contactName": "Ko",
+      "contactRole": "Surgeon Champion",
+      "phones": [],
+      "id": 483,
+      "partyId": null
+    }
+  ]
+}

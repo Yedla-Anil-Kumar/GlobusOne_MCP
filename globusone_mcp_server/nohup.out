@@ -1,0 +1,43 @@
+INFO:     Started server process [1669893]
+INFO:     Waiting for application startup.
+[08/18/26 09:21:38] INFO     StreamableHTTP       streamable_http_manager.py:131
+                             session manager                                    
+                             started                                            
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8812 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+[08/18/26 09:24:18] INFO     StreamableHTTP       streamable_http_manager.py:135
+                             session manager                                    
+                             shutting down                                      
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1669893]
+Traceback (most recent call last):
+  File "/home/nishanali/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nishanali/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/asyncio/base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/opt/llm/globus_mcp_server/globus_mcp_server/server.py", line 195, in <module>
+    main()
+  File "/opt/llm/globus_mcp_server/globus_mcp_server/server.py", line 191, in main
+    mcp.run(transport="streamable-http")
+  File "/opt/llm/corporate_gpt_gadk/.venv/lib/python3.12/site-packages/mcp/server/fastmcp/server.py", line 300, in run
+    anyio.run(self.run_streamable_http_async)
+  File "/opt/llm/corporate_gpt_gadk/.venv/lib/python3.12/site-packages/anyio/_core/_eventloop.py", line 74, in run
+    return async_backend.run(func, args, {}, backend_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/llm/corporate_gpt_gadk/.venv/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2325, in run
+    return runner.run(wrapper())
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nishanali/.local/share/uv/python/cpython-3.12.12-linux-x86_64-gnu/lib/python3.12/asyncio/runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
